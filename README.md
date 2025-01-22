@@ -1,2 +1,2 @@
-# Postawy-informatyki
+#Postawy-informatyki
 asdasdas
