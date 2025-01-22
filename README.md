@@ -1,2 +1,1 @@
-#Postawy-informatyki
-asdasdas
+#Postawy-informatyki sadasada
