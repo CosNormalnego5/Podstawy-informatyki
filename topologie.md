@@ -2,15 +2,15 @@
 
 ## Sieci Fizyczne
 Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połączeń. Przykłady:
-- **Topologia magistrali** (Bus) : jest to
+- **Topologia magistrali**: jest to
   - Wady: 
   - Zalety: 
   - Gdzie stosowane: ?
-- **Topologia pierścienia** (Ring): jest to
+- **Topologia pierścienia**: jest to
   - Wady: 
   - Zalety: 
   - Gdzie stosowane: ?
-- **Topologia gwiazdy** (Star): jest to
+- **Topologia gwiazdy**: jest to
   - Wady: 
   - Zalety: 
   - Gdzie stosowane: ?
@@ -18,15 +18,15 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połą
 
 ## Sieci Logiczne
 Sieci logiczne opisują sposób przesyłania danych między urządzeniami, niezależnie od fizycznej struktury. Przykłady:
-- **Punkt-punkt** (Point-to-Point): jest to
+- **Punkt-punkt**: jest to
   - Wady: 
   - Zalety: 
   - Zastosowanie: ?
-- **Przekazywanie żetonu** (Token Passing): jest to
+- **Przekazywanie żetonu**: jest to
   - Wady: 
   - Zalety: 
   - Zastosowanie: ?
-- **Wielodostępowa** (Multiple Access): jest to
+- **Wielodostępowa**: jest to
   - Wady: 
   - Zalety: 
  - Zastosowanie: ?
