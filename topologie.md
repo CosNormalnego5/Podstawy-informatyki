@@ -37,7 +37,6 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połą
 =======
   - Gdzie stosowane: ?
 - **Topologia pierścienia**: jest to
->>>>>>> 41bdd9233d781e4f3a4d8b60a4590c80f385429c
   - Wady: 
   Awaria jednego elementu może zniszczyć całą sieć, 
   trudności w diagnostyce i konserwacji, 
@@ -60,7 +59,6 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połą
 =======
   - Gdzie stosowane: ?
 - **Topologia gwiazdy**: jest to
->>>>>>> 41bdd9233d781e4f3a4d8b60a4590c80f385429c
   - Wady: 
     Awaria centralnego urządzenia może spowodować awarię całej sieci.
     Wyższe koszty okablowania i utrzymania w większych sieciach.
@@ -152,7 +150,6 @@ Sieci logiczne opisują sposób przesyłania danych między urządzeniami, nieza
     FDDI (Fiber Distributed Data Interface)
     CAN (Controller Area Network)
 - **Wielodostępowa**: jest to
->>>>>>> 41bdd9233d781e4f3a4d8b60a4590c80f385429c
   - Wady: 
     Kolizje
     Złożoność implementacji
