@@ -3,6 +3,19 @@
 ## Sieci Fizyczne
 Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połączeń. Przykłady:
 - **Topologia magistrali** (Bus) : jest to
+ - Wady:
+    Kolizje i spadek wydajności
+    Problemy z awariami
+    Ograniczona przepustowość
+    Zarządzanie siecią
+    Trudności w diagnostyce
+ - Zalety:
+    Prostota
+    Niski koszt
+    Elastyczność w dodawaniu urządzeń
+ - Stosowane:
+=======
+- **Topologia magistrali**: jest to
   - Wady: 
   Awaria magistrali powoduje awarię całej sieci, problemy z wydajnością, 
   trudności w diagnostyce i konserwacji, 
@@ -21,6 +34,10 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połą
   Starsze technologie komunikacyjne,
   Sieci tymczasowe i eksperymentalne
 - **Topologia pierścienia** (Ring): jest to
+=======
+  - Gdzie stosowane: ?
+- **Topologia pierścienia**: jest to
+>>>>>>> 41bdd9233d781e4f3a4d8b60a4590c80f385429c
   - Wady: 
   Awaria jednego elementu może zniszczyć całą sieć, 
   trudności w diagnostyce i konserwacji, 
@@ -40,6 +57,10 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połą
   Wirtualne sieci lokalne (VLAN),
   Sieci w zastosowaniach wojskowych i rządowych
 - **Topologia gwiazdy** (Star): jest to
+=======
+  - Gdzie stosowane: ?
+- **Topologia gwiazdy**: jest to
+>>>>>>> 41bdd9233d781e4f3a4d8b60a4590c80f385429c
   - Wady: 
     Awaria centralnego urządzenia może spowodować awarię całej sieci.
     Wyższe koszty okablowania i utrzymania w większych sieciach.
@@ -64,6 +85,7 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połą
 
 ## Sieci Logiczne
 Sieci logiczne opisują sposób przesyłania danych między urządzeniami, niezależnie od fizycznej struktury. Przykłady:
+
 - **Punkt-punkt** (Point-to-Point): jest to
   - Wady: 
     Ograniczona skalowalność.
@@ -94,6 +116,43 @@ Sieci logiczne opisują sposób przesyłania danych między urządzeniami, nieza
     Sieci LAN
     Zastosowania w telekomunikacji i systemach transmisji danych
 - **Wielodostępowa** (Multiple Access): jest to
+=======
+- **Punkt-punkt**: jest to
+  - Wady: 
+    Ograniczona skalowalność
+    Brak redundancji
+    Wysokie koszty przy dużej liczbie połączeń
+    Brak centralnego zarządzania
+  - Zalety: 
+    Prostota
+    Bezpieczeństwo
+    Wydajność
+    Niskie koszty
+  - Zastosowanie: 
+    Połączenia między dwoma biurami (połączenia WAN)
+    Połączenia między urządzeniami w małych sieciach
+    Połączenia w sieciach telekomunikacyjnych
+    Połączenia w technologii bezprzewodowej
+    Połączenia w systemach monitoringu
+    Połączenia w systemach IoT
+    Połączenia w sieciach komputerowych do testów i diagnostyki
+    Połączenia w sieci VPN
+    Połączenia w sieciach satelitarnych
+- **Przekazywanie żetonu**: jest to
+  - Wady:
+    Awaria urządzenia
+    Opóźnienia
+    Złożoność implementacji 
+  - Zalety: 
+    Brak kolizji
+    Efektywność
+    Zgodność z topologią pierścienia i szyny
+  - Zastosowanie: 
+    Token Ring
+    FDDI (Fiber Distributed Data Interface)
+    CAN (Controller Area Network)
+- **Wielodostępowa**: jest to
+>>>>>>> 41bdd9233d781e4f3a4d8b60a4590c80f385429c
   - Wady: 
     Kolizje
     Złożoność implementacji
