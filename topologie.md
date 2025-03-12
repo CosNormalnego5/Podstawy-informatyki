@@ -14,6 +14,9 @@ Sieci fizyczne odnoszą się do fizycznego ułożenia kabli, urządzeń i połą
     Niski koszt
     Elastyczność w dodawaniu urządzeń
  - Stosowane:
+    Małe sieci lokalne (LAN)
+    Sieci o małej liczbie urządzeń
+    Systemy testowe i edukacyjne
 =======
 - **Topologia magistrali**: jest to
   - Wady: 
