@@ -4,4 +4,4 @@ Modele OSI (Open Systems Interconnection) i TCP/IP (Transmission Control Protoco
 
 #Zakres i popularność
 
-    Model OSI: Jest bardziej 
+  
